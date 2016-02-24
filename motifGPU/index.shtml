@@ -1,0 +1,78 @@
+
+  <TITLE>motifGPU</TITLE>
+  <STYLE TYPE="text/css">@IMPORT URL("/common/pseudo-csg.css");</STYLE>
+</HEAD>
+<BODY>
+<!--#include virtual="/common/banner.inc" -->
+<!--#include virtual="/common/top.inc" -->
+<!--#include virtual="submenu.inc" -->
+<!--#include virtual="/common/topend.inc" -->
+<P><CENTER><TABLE CELLSPACING="0" BORDER="0" CELLPADDING="10" WIDTH="100%">
+  <TR>
+    <TD WIDTH="5%" VALIGN="TOP" ROWSPAN="10">
+    &nbsp;</TD>
+    <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+    <H1><CENTER>motifGPU</CENTER></H1>
+    <H3><CENTER><FONT size="+2">GPU</FONT>-computing
+	            <FONT size="+2">G</FONT>reatly
+				<FONT size="+2">A</FONT>ccelerate
+				<FONT size="+2">M</FONT>otif
+				<FONT size="+2">A</FONT>nalysis
+				</CENTER></H3>
+    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+
+Computational discovery and detection of TF binding patterns has become an indispensible tool in functional genomics 
+research. Probabilistic approaches utilizing Position-Specific Weight Matrix (PSWM) have demonstrated superior performance; however, they are generally time-consuming. Given that most of the computa-tion time is spent calculating matching scores 
+position by position, scalable approaches that can take advantage of parallel hardware architectures are highly desirable.
+
+Using NVIDIA Cuda, we have developed a graphics processing unit (GPU)-accelerated motif analysis software library named 
+motifGPU. Extensive performance comparison studies on two different graphics cards from NVIDIA, (GeForce) GTX 260 and 
+GeForce GTX 480, showed that commonly-used model-based motif scan procedures can be dramatically accelerated using our 
+library. De novo motif discovery can also benefit from our GPU-accelerated tools.
+
+        </TD>
+  </TR>
+  <TR>
+
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="getProg.shtml">Download program</A></TD>
+    <TD VALIGN="TOP" WIDTH="75%">
+    Download the latest version of motifGPU library. [August, 2010]
+    </TD>
+  </TR>
+
+  <TR>
+
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="documents.shtml">Documentation</A></TD>
+    <TD VALIGN="TOP" WIDTH="75%">
+    The manuscript describing motifGPU library.
+    </TD>
+  </TR>
+
+  <TR><TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+  <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+    <H3> Contact </H3>
+        For bug report, questions or comments, please contact Pooya Zandevakili (zandv@umich.edu).
+    </TD>
+  </TR>
+</TABLE>
+</CENTER>
+
+<!--#include virtual="/common/bottom.inc"-->
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+

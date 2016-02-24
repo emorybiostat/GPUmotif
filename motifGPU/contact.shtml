@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+  <TITLE>motifGPU: Contact Information</TITLE>
+  <STYLE TYPE="text/css">@IMPORT URL("/common/pseudo-csg.css");</STYLE>
+</HEAD>
+<BODY>
+<!--#include virtual="/common/banner.inc" -->
+<!--#include virtual="/common/top.inc" -->
+<!--#include virtual="submenu.inc" -->
+<!--#include virtual="/common/topend.inc" -->
+<P><CENTER><TABLE CELLSPACING="0" BORDER="0" CELLPADDING="10" WIDTH="100%">
+  <TR>
+    <TD WIDTH="5%" VALIGN="TOP" ROWSPAN="10">
+    &nbsp;</TD> 
+    <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+    <H1><CENTER>Contact and Support Information</CENTER></H1>
+    </TD>
+  </TR>
+  <TR><TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>   
+  <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+    <H3>Support Information </H3>
+	For questions or comments about motifGPU library, please e-mail Pooya Zandevakili at zandv@umich.edu.
+    </TD>
+  </TR>
+</TABLE>
+</CENTER>
+
+<!--#include virtual="/common/bottom.inc"-->
+
+</BODY>
+</HTML>

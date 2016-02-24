@@ -1,0 +1,47 @@
+
+  <TITLE>motifGPU</TITLE>
+  <STYLE TYPE="text/css">@IMPORT URL("/common/pseudo-csg.css");</STYLE>
+</HEAD>
+<BODY>
+<!--#include virtual="/common/banner.inc" -->
+<!--#include virtual="/common/top.inc" -->
+<!--#include virtual="submenu.inc" -->
+<!--#include virtual="/common/topend.inc" -->
+
+<CENTER>
+<H1>Downloadable motifGPU library</H1>
+<P>
+<H3>Version: 1.0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Date:
+08/10/2010</H3>
+
+<TABLE WIDTH="70%" CELLSPACING="0" BORDER="1" CELLPADDING="7">
+  <TR>
+    <TD WIDTH="28%" VALIGN="TOP" BGCOLOR="#AABBCC">
+    <B>Platform</B></TD>
+    <TD WIDTH="46%" VALIGN="TOP" BGCOLOR="#AABBCC">
+    <CENTER><B>File</B></CENTER></TD>
+    <TD WIDTH="16%" VALIGN="TOP" BGCOLOR="#AABBCC">
+    <CENTER><B>Size</B></CENTER></TD>
+  </TR>
+  <TR>
+    <TD WIDTH="28%">
+    Linux</TD>
+    <TD WIDTH="46%">
+    <P><CENTER><A HREF="release1.0.rar">release1.0.rar</A></CENTER></TD>
+    <TD WIDTH="16%">
+    <P><CENTER>3.8 MB</CENTER></TD>
+  </TR>
+  </TABLE>
+  <P>
+  <P>
+  <TABLE CELLSPACING="0" BORDER="0" CELLPADDING="10" WIDTH="100%">
+  <TR>
+  </TR>
+</TABLE>
+</CENTER>
+
+<!--#include virtual="/common/bottom.inc"-->
+
+</BODY>
+</HTML>
+
